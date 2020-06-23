@@ -225,6 +225,10 @@ body {
         margin-top: 150px;
     }
 
+    h2 {
+        font-size: 1.2em;
+    }
+
     #description {
         grid-template-rows: repeat(3, 6em 1fr) ;
         grid-template-columns: 1fr;
